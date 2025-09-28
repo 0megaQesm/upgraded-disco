@@ -1043,5 +1043,11 @@
     },
     "done": true
   },
+  "etched:recipes/misc/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-09-28 21:10:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

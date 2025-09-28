@@ -211,3 +211,63 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Sep2025 21:08:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
 [28Sep2025 21:08:28.319] [Server thread/INFO] [Jade/]: Syncing config to OmegaQesm_ (3dc782fd-867a-3c08-8291-e0524b5aeb5d)
 [28Sep2025 21:09:14.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 21:11:04.132] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
+[28Sep2025 21:11:29.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[28Sep2025 21:11:29.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[28Sep2025 21:12:15.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.34.204.184:55515] logged in with entity id 2362 at (-14.23728818349552, 64.0, -296.68029664142466)
+[28Sep2025 21:12:15.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[28Sep2025 21:12:15.119] [Server thread/INFO] [Jade/]: Syncing config to OmegaQesm_ (3dc782fd-867a-3c08-8291-e0524b5aeb5d)
+[28Sep2025 21:12:52.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[28Sep2025 21:12:52.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[28Sep2025 21:13:32.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.34.204.184:50641] logged in with entity id 2714 at (68.63173382051657, 65.0, -311.89228899582)
+[28Sep2025 21:13:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[28Sep2025 21:13:32.610] [Server thread/INFO] [Jade/]: Syncing config to OmegaQesm_ (3dc782fd-867a-3c08-8291-e0524b5aeb5d)
+[28Sep2025 21:13:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was shot by Skeleton
+[28Sep2025 21:14:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[28Sep2025 21:14:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the weather to clear]
+[28Sep2025 21:14:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[28Sep2025 21:15:52.538] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/3305, l='ServerLevel[world]', x=5.50, y=45.00, z=-194.50]
+[28Sep2025 21:15:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[28Sep2025 21:15:58.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 21:16:20.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 21:16:35.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 21:16:36.660] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: OmegaQesm_ threw a [Hole Filler - Smart] from (-22.84, 64.00, -298.50).
+ Impact position: BlockPos{x=-20, y=61, z=-300}. Hole Size: 44. Creative: true
+[28Sep2025 21:16:36.675] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: OmegaQesm_ threw a [Hole Filler - Smart] from (-22.84, 64.00, -298.50).
+ Impact position: BlockPos{x=-21, y=61, z=-300}. Hole Size: 43. Creative: true
+[28Sep2025 21:16:40.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 21:18:11.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[28Sep2025 21:18:11.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[28Sep2025 21:20:01.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/4047, l='ServerLevel[world]', x=19.50, y=47.00, z=-190.50]
+[28Sep2025 21:26:04.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[28Sep2025 21:28:35.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie hit the ground too hard
+[28Sep2025 21:28:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie fell from a high place
+[28Sep2025 21:28:54.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo lost connection: Disconnected
+[28Sep2025 21:28:54.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo left the game
+[28Sep2025 21:29:51.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OmegaQesm_[/127.34.204.184:58947] logged in with entity id 6516 at (-15.493414940213151, 64.5, -296.8345660692091)
+[28Sep2025 21:29:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ joined the game
+[28Sep2025 21:29:51.223] [Server thread/INFO] [Jade/]: Syncing config to OmegaQesm_ (3dc782fd-867a-3c08-8291-e0524b5aeb5d)
+[28Sep2025 21:30:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Zombie
+[28Sep2025 21:30:27.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[28Sep2025 21:30:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie was blown up by Creeper
+[28Sep2025 21:30:41.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie fell off some vines
+[28Sep2025 21:31:08.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie has made the advancement [Monster Hunter]
+[28Sep2025 21:31:23.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lafizamovie moved too quickly! -2.3656984871659983,-0.7531999805212024,-9.805472737914954
+[28Sep2025 21:31:26.477] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: OmegaQesm_ threw a [Hole Filler - Smart] from (16.82, 64.00, -325.45).
+ Impact position: BlockPos{x=13, y=59, z=-323}. Hole Size: 167. Creative: false
+[28Sep2025 21:31:26.506] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: OmegaQesm_ threw a [Hole Filler - Smart] from (16.82, 64.00, -325.45).
+ Impact position: BlockPos{x=13, y=60, z=-323}. Hole Size: 166. Creative: false
+[28Sep2025 21:31:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 21:31:36.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 21:32:05.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Removed 42 item(s) from player OmegaQesm_]
+[28Sep2025 21:32:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Made la a server operator]
+[28Sep2025 21:33:53.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [It Belongs in a Museum]
+[28Sep2025 21:33:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Once Upon a Cave]
+[28Sep2025 21:34:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie has made the advancement [Stone Age]
+[28Sep2025 21:34:44.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lafizamovie> WAZAAAAAAAAAAAAAAAA
+[28Sep2025 21:35:15.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DMkingo[/127.81.14.173:45119] logged in with entity id 9083 at (-15.730761569691593, 64.0, -291.89046057531027)
+[28Sep2025 21:35:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo joined the game
+[28Sep2025 21:35:15.625] [Server thread/INFO] [Jade/]: Syncing config to DMkingo (ce02b2c8-84ca-3040-991f-0c0141e35260)
+[28Sep2025 21:37:29.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Without a Brain]
+[28Sep2025 21:37:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Without a Brain]
+[28Sep2025 21:37:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
