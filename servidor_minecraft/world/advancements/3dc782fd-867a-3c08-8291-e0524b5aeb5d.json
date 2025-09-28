@@ -549,9 +549,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-09-28 21:42:52 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:husbandry/craft_scarecrow": {
+    "criteria": {
+      "scarecrow": "2025-09-28 21:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-28 21:43:08 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-09-28 21:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-28 21:42:52 +0000"
     },
     "done": true
   },

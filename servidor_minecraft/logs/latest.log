@@ -271,3 +271,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Sep2025 21:37:29.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Without a Brain]
 [28Sep2025 21:37:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Without a Brain]
 [28Sep2025 21:37:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[28Sep2025 21:41:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ was slain by Spider
+[28Sep2025 21:41:45.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[28Sep2025 21:42:32.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 21:42:43.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[28Sep2025 21:42:51.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 21:42:52.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ has made the advancement [Getting an Upgrade]
+[28Sep2025 21:44:28.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[28Sep2025 21:44:28.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
+[28Sep2025 21:45:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[28Sep2025 21:46:02.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[28Sep2025 21:46:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie fell off some vines
