@@ -204,3 +204,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Sep2025 05:23:29.007] [Server thread/INFO] [Jade/]: Syncing config to OmegaQesm_ (3dc782fd-867a-3c08-8291-e0524b5aeb5d)
 [28Sep2025 05:24:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
 [28Sep2025 05:24:16.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 05:35:12.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OmegaQesm_ lost connection: Disconnected
+[28Sep2025 05:35:12.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmegaQesm_ left the game
