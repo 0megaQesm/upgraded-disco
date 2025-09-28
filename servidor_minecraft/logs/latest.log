@@ -229,3 +229,105 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Sep2025 04:32:38.193] [Server thread/INFO] [Jade/]: Syncing config to DMkingo (ce02b2c8-84ca-3040-991f-0c0141e35260)
 [28Sep2025 04:32:38.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Removed 67 item(s) from player OmegaQesm_]
 [28Sep2025 04:33:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Teleported OmegaQesm_ to DMkingo]
+[28Sep2025 04:33:59.621] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@493ad564[id=<null>,name=lafizamovie,properties={},legacy=false] (/127.1.117.107:36761) lost connection: Disconnected
+[28Sep2025 04:34:17.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 04:35:01.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lafizamovie[/127.1.117.107:53503] logged in with entity id 5223 at (-41.5, 64.0, -316.5)
+[28Sep2025 04:35:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie joined the game
+[28Sep2025 04:35:01.987] [Server thread/INFO] [Jade/]: Syncing config to lafizamovie (38e8cd50-73be-32ee-883e-2c48fa16bba6)
+[28Sep2025 04:35:17.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie has made the advancement [Alex's Mobs]
+[28Sep2025 04:36:29.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 04:36:50.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[28Sep2025 04:36:58.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Made lafizamovie a server operator]
+[28Sep2025 04:37:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set the time to 1000]
+[28Sep2025 04:37:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
+[28Sep2025 04:37:23.095] [Worker-Main-2/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[28Sep2025 04:37:38.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DMkingo lost connection: Timed out
+[28Sep2025 04:37:38.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo left the game
+[28Sep2025 04:37:38.758] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Sep2025 04:39:26.734] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: OmegaQesm_ threw a [Hole Filler] from (-39.68, 64.00, -307.93).
+ Impact position: BlockPos{x=-37, y=62, z=-309}. Hole Size: 48. Creative: false
+[28Sep2025 04:39:32.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DMkingo[/127.76.59.31:59177] logged in with entity id 6378 at (40.5, 64.0, -298.5)
+[28Sep2025 04:39:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo joined the game
+[28Sep2025 04:39:32.195] [Server thread/INFO] [Jade/]: Syncing config to DMkingo (ce02b2c8-84ca-3040-991f-0c0141e35260)
+[28Sep2025 04:39:49.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Creative Mode]
+[28Sep2025 04:39:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmegaQesm_: Set own game mode to Survival Mode]
+[28Sep2025 04:41:26.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lafizamovie lost connection: Disconnected
+[28Sep2025 04:41:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie left the game
+[28Sep2025 04:41:34.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lafizamovie[/127.1.117.107:52587] logged in with entity id 6851 at (-24.475910031334607, 64.0, -299.32248703744824)
+[28Sep2025 04:41:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lafizamovie joined the game
+[28Sep2025 04:41:34.885] [Server thread/INFO] [Jade/]: Syncing config to lafizamovie (38e8cd50-73be-32ee-883e-2c48fa16bba6)
+[28Sep2025 04:41:52.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DMkingo has made the advancement [Stone Age]
+[28Sep2025 04:43:03.907] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 1
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: NORMAL
+		3: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@128440b5 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@41766e66 playerEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: ASM: class com.legacy.rediscovered.event.RediscoveredEvents onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		6: ASM: class net.fabricmc.fabric.impl.event.interaction.InteractionEventHooks onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[28Sep2025 04:43:03.909] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@2adddc17, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23143!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23143!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23143!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[28Sep2025 04:43:06.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Creative Mode]
+[28Sep2025 04:43:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DMkingo: Set own game mode to Survival Mode]
